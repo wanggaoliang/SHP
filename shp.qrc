@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="SHP">
+    <file>e.png</file>
+    <file>f.png</file>
+    <file>h.png</file>
+    <file>s.png</file>
+    <file>u.png</file>
+  </qresource>
+</RCC>
